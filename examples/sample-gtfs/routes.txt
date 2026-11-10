@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+101,METRO_TRANSIT,101,"Downtown Express - Central Station to Tech Park",3,0055AA
+102,METRO_TRANSIT,102,"Crosstown Local - Harbor to University",3,228833

@@ -1,0 +1,6 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id
+STOP_A,"Central Station",40.7128,-74.0060,1
+STOP_B,"Civic Center",40.7145,-74.0040,1
+STOP_C,"Financial District",40.7170,-74.0010,1
+STOP_D,"Grand Avenue",40.7210,-73.9980,1
+STOP_E,"Tech Park Terminal",40.7280,-73.9910,2

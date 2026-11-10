@@ -1,0 +1,28 @@
+{
+  "name": "gtfs-timetable-engine",
+  "version": "1.0.0",
+  "description": "High-performance pipeline for parsing GTFS feeds, calculating headways, and building static timetables. Production showcases at headway.shivrajsinh.in and transit.shivrajsinh.in",
+  "main": "src/cli.js",
+  "bin": {
+    "gtfs-engine": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "python3 tests/test_engine.py",
+    "summary": "node src/cli.js examples/sample-gtfs"
+  },
+  "keywords": [
+    "gtfs",
+    "transit",
+    "timetables",
+    "headway",
+    "public-transport",
+    "open-data"
+  ],
+  "author": "Shivrajsinh Zala",
+  "license": "MIT",
+  "homepage": "https://headway.shivrajsinh.in",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivrajsinhzala/gtfs-timetable-engine.git"
+  }
+}
